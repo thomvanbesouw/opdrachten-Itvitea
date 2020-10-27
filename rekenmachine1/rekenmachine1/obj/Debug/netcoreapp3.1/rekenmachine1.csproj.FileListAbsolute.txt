@@ -1,0 +1,15 @@
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\bin\Debug\netcoreapp3.1\rekenmachine1.exe
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\bin\Debug\netcoreapp3.1\rekenmachine1.deps.json
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\bin\Debug\netcoreapp3.1\rekenmachine1.runtimeconfig.json
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\bin\Debug\netcoreapp3.1\rekenmachine1.runtimeconfig.dev.json
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\bin\Debug\netcoreapp3.1\rekenmachine1.dll
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\bin\Debug\netcoreapp3.1\rekenmachine1.pdb
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.csprojAssemblyReference.cache
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.AssemblyInfoInputs.cache
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.AssemblyInfo.cs
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.csproj.CoreCompileInputs.cache
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.dll
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.pdb
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.genruntimeconfig.cache
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.csproj.GenerateResource.cache
+C:\Users\Thom\source\repos\rekenmachine1\rekenmachine1\obj\Debug\netcoreapp3.1\rekenmachine1.Form1.resources
