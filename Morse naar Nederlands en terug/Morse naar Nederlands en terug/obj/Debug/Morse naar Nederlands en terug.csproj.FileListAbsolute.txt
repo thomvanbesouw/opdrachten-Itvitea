@@ -1,0 +1,10 @@
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\bin\Debug\Morse naar Nederlands en terug.exe.config
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\bin\Debug\Morse naar Nederlands en terug.exe
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\bin\Debug\Morse naar Nederlands en terug.pdb
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\obj\Debug\Morse naar Nederlands en terug.csprojAssemblyReference.cache
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\obj\Debug\Morse_naar_Nederlands_en_terug.Form1.resources
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\obj\Debug\Morse_naar_Nederlands_en_terug.Properties.Resources.resources
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\obj\Debug\Morse naar Nederlands en terug.csproj.GenerateResource.cache
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\obj\Debug\Morse naar Nederlands en terug.csproj.CoreCompileInputs.cache
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\obj\Debug\Morse naar Nederlands en terug.exe
+C:\Users\Thom\source\repos\Morse naar Nederlands en terug\Morse naar Nederlands en terug\obj\Debug\Morse naar Nederlands en terug.pdb
